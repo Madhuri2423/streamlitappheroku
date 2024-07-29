@@ -11,7 +11,7 @@ keras==2.14.0
 
 # Image Processing Libraries
 opencv-python-headless==4.8.1.78
-Pillow==9.6.0
+Pillow==10.3.0  # Updated Pillow version
 
 # Data Visualization Libraries
 matplotlib==3.8.0
@@ -31,3 +31,7 @@ h5py==3.9.0
 joblib==1.4.0
 xgboost==1.7.6
 pydicom==2.4.1  # Medical image handling
+
+# PyTorch-specific dependencies (adapt based on your environment)
+torchvision==0.15.0
+torchaudio==2.1.0
