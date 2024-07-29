@@ -1,37 +1,14 @@
-# Basic Data Processing Libraries
+streamlit==1.23.1
 numpy==1.26.0
 pandas==2.1.0
 scipy==1.11.1
-
-# Machine Learning Libraries
 scikit-learn==1.3.1
 tensorflow==2.14.0
 torch==2.1.0
 keras==2.14.0
-
-# Image Processing Libraries
+nltk==3.8.1
 opencv-python-headless==4.8.1.78
-Pillow==10.3.0  # Updated Pillow version
-
-# Data Visualization Libraries
+pillow==10.0.0
 matplotlib==3.8.0
 seaborn==0.12.2
 plotly==5.20.0
-
-# Natural Language Processing Libraries
-nltk==3.9.0
-spacy==3.6.1
-
-# Web Development Libraries
-streamlit==1.25.0
-flask==2.3.3
-
-# Additional Libraries for AI and Data Handling
-h5py==3.9.0
-joblib==1.4.0
-xgboost==1.7.6
-pydicom==2.4.1  # Medical image handling
-
-# PyTorch-specific dependencies (adapt based on your environment)
-torchvision==0.15.0
-torchaudio==2.1.0
